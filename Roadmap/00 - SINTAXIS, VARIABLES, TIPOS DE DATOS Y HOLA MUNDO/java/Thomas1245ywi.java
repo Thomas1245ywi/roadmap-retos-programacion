@@ -32,10 +32,14 @@ boolean esEstudiante = true; // true or false
 String nombre = "Thomas" // texto
 int[] numeros = {1, 2, 3} // arreglo de numeros
 
+  
+public class Main {
+    public static void main(String[] args) {
+        String lenguaje = "Java";
+        //Asi se imprime en pantalla
+        System.out.println("Tu lenguaje es: "lenguaje);
+    }
+}
 
-String lenguaje = "Java";
-
-// asi se muestra en pantalla un mensaje
-System.out.println(lenguaje);
 
   
