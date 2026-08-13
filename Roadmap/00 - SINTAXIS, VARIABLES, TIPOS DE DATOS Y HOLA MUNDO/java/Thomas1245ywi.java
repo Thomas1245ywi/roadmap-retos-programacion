@@ -18,7 +18,7 @@ final int constante;
 // 5. Asi se crean variables con diferentes tipos de datos:
 
 byte edadPequena = 20; //numeros pequeños
-short Cantidad = 1000; // numeros medianos
+short cantidad = 1000; // numeros medianos
 int edad = 20; // numeros normales
 long poblacion = 800000L; // numeros muy grandes
 
@@ -41,5 +41,5 @@ public class Main {
     }
 }
 
-
+// Java usa sitaxis camilCase
   
