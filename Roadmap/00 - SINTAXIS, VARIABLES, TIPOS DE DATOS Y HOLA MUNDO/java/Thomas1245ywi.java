@@ -37,7 +37,7 @@ public class Main {
     public static void main(String[] args) {
         String lenguaje = "Java";
         //Asi se imprime en pantalla
-        System.out.println("Tu lenguaje es: "lenguaje);
+        System.out.println("¡Hola, " + lenguaje +"!");
     }
 }
 
