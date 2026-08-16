@@ -24,14 +24,14 @@ int edad = 20; // numeros normales
 long poblacion = 800000L; // numeros muy grandes
 
 
-float precio = 19.99f // decimal menos preciso
-double promedio = 4.5 // decimal normal
+float precio = 19.99f; // decimal menos preciso
+double promedio = 4.5; // decimal normal
 
 char letra = 'A'; // Un solo caracter
 boolean esEstudiante = true; // true or false
 
-String nombre = "Thomas" // texto
-int[] numeros = {1, 2, 3} // arreglo de numeros
+String nombre = "Thomas"; // texto
+int[] numeros = {1, 2, 3}; // arreglo de numeros
 
   
 public class Main {
